@@ -1,0 +1,3 @@
+Hi 
+This is alice-2 file
+checking for diff command.
